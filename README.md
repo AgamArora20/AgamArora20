@@ -1,16 +1,142 @@
-## Hi there 👋
+# 👋 Hi, I'm Agam Arora  
 
-<!--
-**AgamArora20/AgamArora20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Open+Source+Contributor;Backend+Developer;Problem+Solver" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science @ VIT Bhopal  
+💻 AI • Machine Learning • Backend • Software Engineering  
+🚀 Passionate about building real-world intelligent systems  
+📍 India  
+
+---
+
+## 🚀 About Me  
+
+- 🔭 Working on AI/ML systems & backend development  
+- 🌱 Exploring Deep Learning, System Design & Testing  
+- 🤝 Open to collaboration & research projects  
+- 💬 Ask me about Python, DSA, ML, APIs, Testing  
+- ⚡ I love solving complex problems & algorithms  
+
+---
+
+## 🧠 Tech Stack  
+
+### 💻 Languages  
+<p>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql"/>
+</p>
+
+
+---
+
+### 🤖 AI / ML  
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv"/>
+</p>
+
+---
+
+### 🌐 Web / Backend  
+<p>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+</p>
+
+
+---
+
+### 🛠 Tools  
+<p>
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma"/>
+</p>
+
+
+---
+
+## 📌 Projects  
+
+### 🔹 OSDAG Testing and Validation System  
+- Developed unit & integration test cases for large open-source engineering software  
+- Improved system reliability without modifying production code  
+- Used Python unittest and mocking  
+
+---
+
+### 🔹 Face Mask Detection with Live Alert  
+- Real-time computer vision system using OpenCV and TensorFlow  
+- High accuracy with low latency detection  
+
+---
+
+### 🔹 Movie Recommendation System  
+- Built ML-based recommendation engine using Pandas and Scikit-learn  
+- Interactive UI using Streamlit  
+
+---
+
+### 🔹 Chemical Equipment Visualizer 🧪  
+- Developed a visualization system for chemical equipment and processes  
+- Designed interactive representations to simplify complex chemical concepts  
+- Focused on enhancing learning through graphical simulation  
+
+---
+
+### 🔹 Web-Based Application 🌐  
+- Developed a full-stack web application with frontend and backend integration  
+- Implemented responsive UI using HTML, CSS, and JavaScript  
+- Built backend logic and handled data flow between client and server  
+- Designed for real-world usability and smooth user interaction   
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Best Performer – Elevate Labs Internship  
+- 💡 Solved 150+ DSA problems  
+- 📜 Coursera Certification (Networking)  
+
+---
+
+## 📊 GitHub Stats  
+
+Stats
+
+Streak
+
+Top Languages
+
+---
+
+## 👀 Visitor Count  
+
+Visitor Count
+
+---
+
+## 📫 Connect  
+
+- 📧 agamarora91@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/agam-arora20/  
+- 💻 GitHub: https://github.com/AgamArora20  
+
+---
+
+⭐ Thanks for visiting!
