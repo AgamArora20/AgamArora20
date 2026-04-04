@@ -92,18 +92,11 @@
 
 ---
 
-### 🔹 Chemical Equipment Visualizer 🧪  
-- Developed a visualization system for chemical equipment and processes  
-- Designed interactive representations to simplify complex chemical concepts  
-- Focused on enhancing learning through graphical simulation  
-
----
-
-### 🔹 Web-Based Application 🌐  
-- Developed a full-stack web application with frontend and backend integration  
-- Implemented responsive UI using HTML, CSS, and JavaScript  
-- Built backend logic and handled data flow between client and server  
-- Designed for real-world usability and smooth user interaction   
+### 🔹 Chemical Equipment Visualizer (Web-Based Application) 🧪  
+- Developed a web-based application for visualizing chemical equipment and processes  
+- Built using HTML, CSS, JavaScript (Frontend) and backend logic integration  
+- Designed interactive UI for better understanding of chemical systems  
+- Focused on simulation and visualization of chemical engineering concepts  
 
 ---
 
