@@ -119,8 +119,10 @@ Stats
 
 
 Streak
+<img src="https://streak-stats.demolab.com/?user=AgamArora20&theme=tokyonight"/>
 
 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgamArora20&layout=compact&theme=tokyonight"/>
 
 ---
 
