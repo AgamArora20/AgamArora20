@@ -110,7 +110,13 @@
 
 ## 📊 GitHub Stats  
 
-Stats
+Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgamArora20&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=AgamArora20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgamArora20&layout=compact&theme=tokyonight" />
+</p>
+
 
 Streak
 
@@ -120,7 +126,11 @@ Top Languages
 
 ## 👀 Visitor Count  
 
-Visitor Count
+Visitor Count 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgamArora20&color=blue&style=for-the-badge" />
+</p>
+
 
 ---
 
